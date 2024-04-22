@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F94B6E-D115-4F09-8F4F-9CFB58A5D369}|Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1.csproj|d:\\c#-t\\asp\\lab03_2_letuantinh_k22cntt1\\lab03_2_letuantinh_k22cntt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60F94B6E-D115-4F09-8F4F-9CFB58A5D369}|Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1.csproj|solutionrelative:lab03_2_letuantinh_k22cntt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F94B6E-D115-4F09-8F4F-9CFB58A5D369}|Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1.csproj|D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\lab03_2_letuantinh_k22cntt1\\views\\razorview\\variable_if_else_switch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60F94B6E-D115-4F09-8F4F-9CFB58A5D369}|Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1.csproj|solutionrelative:lab03_2_letuantinh_k22cntt1\\views\\razorview\\variable_if_else_switch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab03_2_LeTuantinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab03_2_LeTuantinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:58:07.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variable_If_Else_Switch.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1\\Views\\RazorView\\Variable_If_Else_Switch.cshtml",
+              "RelativeDocumentMoniker": "Lab03_2_LeTuantinh_K22CNTT1\\Views\\RazorView\\Variable_If_Else_Switch.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Lab03_2_LeTuantinh_K22CNTT1\\Lab03_2_LeTuantinh_K22CNTT1\\Views\\RazorView\\Variable_If_Else_Switch.cshtml",
+              "RelativeToolTip": "Lab03_2_LeTuantinh_K22CNTT1\\Views\\RazorView\\Variable_If_Else_Switch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:56:51.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

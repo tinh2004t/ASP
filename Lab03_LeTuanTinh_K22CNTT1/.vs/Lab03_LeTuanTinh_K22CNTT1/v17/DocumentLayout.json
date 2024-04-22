@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|d:\\c#-t\\asp\\lab03_letuantinh_k22cntt1\\lab03_letuantinh_k22cntt1\\views\\passingdata\\viewbagtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|solutionrelative:lab03_letuantinh_k22cntt1\\views\\passingdata\\viewbagtest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|d:\\c#-t\\asp\\lab03_letuantinh_k22cntt1\\lab03_letuantinh_k22cntt1\\controllers\\passingdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|solutionrelative:lab03_letuantinh_k22cntt1\\controllers\\passingdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|d:\\c#-t\\asp\\lab03_letuantinh_k22cntt1\\lab03_letuantinh_k22cntt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EDA44D8-3D75-4160-AAEE-4FA32ACE0B05}|Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1.csproj|solutionrelative:lab03_letuantinh_k22cntt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewBagTest.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Views\\PassingData\\ViewBagTest.cshtml",
+              "RelativeDocumentMoniker": "Lab03_LeTuanTinh_K22CNTT1\\Views\\PassingData\\ViewBagTest.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Views\\PassingData\\ViewBagTest.cshtml",
+              "RelativeToolTip": "Lab03_LeTuanTinh_K22CNTT1\\Views\\PassingData\\ViewBagTest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:37:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab03_LeTuanTinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab03_LeTuanTinh_K22CNTT1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAACA06UMQq4SwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:32:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassingDataController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Controllers\\PassingDataController.cs",
+              "RelativeDocumentMoniker": "Lab03_LeTuanTinh_K22CNTT1\\Controllers\\PassingDataController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Lab03_LeTuanTinh_K22CNTT1\\Lab03_LeTuanTinh_K22CNTT1\\Controllers\\PassingDataController.cs",
+              "RelativeToolTip": "Lab03_LeTuanTinh_K22CNTT1\\Controllers\\PassingDataController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:24:49.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
