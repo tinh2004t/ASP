@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Ngon Ngu Razor";
+}
+
+<h2>Ngon ngu Razor</h2>
+<h3>Bien</h3>
+@{
+    var name = "Le Tuan Tinh";
+    int age = 20;
+    DateTime dt = DateTime.Now;
+}
+<p>Ho ten: @name</p>
+<p>Tuoi: @age</p>
+<p>Thoi gian: @dt</p>
+<hr />
+<h3>Cau lenh if</h3>
+@{
+    if (age > 40)
+    {
+        <p>Tuoi: @age =>Lon tuoi</p>
+    }
+    else
+    {
+        <p>Tuoi: @age =>Con tre</p>
+    }
+}
+<hr />
+<h3>Loop: for, while, do-while, foreach,.......</h3>
+@{
+    int num = 10;
+
+}
+
+@for (int i = 0; i < num; i++)
+{
+    <li>@i => @i* @i </li>
+}
+
+
+
+
+
+
+
+<h3>Mang</h3>
+@{
+    string[] names = { "Le Tuan Tinh", "Nguyen Phuong Dung", "heheheh khum co gi" };
+}
+
+@foreach (var item in names)
+{
+    <p>@item</p>
+}
+
+<hr />
+@foreach (var item in ViewBag.Names)
+{
+    <p>@item</p>
+}
