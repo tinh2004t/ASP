@@ -1,0 +1,41 @@
+﻿
+@model IEnumerable<Ltt_Lesson4.Models.LttCustomer>
+@{
+    ViewBag.Title = "ListCustomer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    //var list = ViewBag.list;
+    //var list = Model as List<Ltt_Lesson4.Models.LttCustomer>;
+    int stt = 0;
+}
+
+<h2>Danh sach khach hang</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Ma so</th>
+            <th>Ho ten</th>
+            <th>Dia chi</th>
+            <th>#Nam sinh</th>
+            <th>Chuc nang</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            stt++;
+            <tr>
+                <td>@stt</td>
+                <td>@item.CustomerId</td>
+                <td>@item.FirstName @item.LastName</td>
+                <td>@item.Address</td>
+                <td>@item.YearOfBirth</td>
+                <td>
+                    <a href="#">Edit</a>
+                    <a href="#">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

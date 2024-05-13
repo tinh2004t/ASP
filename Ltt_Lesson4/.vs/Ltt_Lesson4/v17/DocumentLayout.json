@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\Ltt_Lesson4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|d:\\c#-t\\asp\\ltt_lesson4\\ltt_lesson4\\views\\lttcustomer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|solutionrelative:ltt_lesson4\\views\\lttcustomer\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|d:\\c#-t\\asp\\ltt_lesson4\\ltt_lesson4\\controllers\\lttcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|solutionrelative:ltt_lesson4\\controllers\\lttcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|d:\\c#-t\\asp\\ltt_lesson4\\ltt_lesson4\\views\\lttcustomerscaffding\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|solutionrelative:ltt_lesson4\\views\\lttcustomerscaffding\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|d:\\c#-t\\asp\\ltt_lesson4\\ltt_lesson4\\views\\lttcustomerscaffding\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|solutionrelative:ltt_lesson4\\views\\lttcustomerscaffding\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|d:\\c#-t\\asp\\ltt_lesson4\\ltt_lesson4\\views\\lttcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12B6F21A-E598-40FF-B471-B3C7866F537A}|Ltt_Lesson4\\Ltt_Lesson4.csproj|solutionrelative:ltt_lesson4\\views\\lttcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomer\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "Ltt_Lesson4\\Views\\LttCustomer\\CreateCustomer.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomer\\CreateCustomer.cshtml",
+              "RelativeToolTip": "Ltt_Lesson4\\Views\\LttCustomer\\CreateCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:19:22.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\Index.cshtml",
+              "RelativeToolTip": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:14:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LttEdit.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttEdit.cshtml",
+              "RelativeDocumentMoniker": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttEdit.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttEdit.cshtml",
+              "RelativeToolTip": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:14:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LttCreate.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttCreate.cshtml",
+              "RelativeDocumentMoniker": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttCreate.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttCreate.cshtml",
+              "RelativeToolTip": "Ltt_Lesson4\\Views\\LttCustomerScaffding\\LttCreate.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:07:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LttCustomerScaffdingController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Controllers\\LttCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "Ltt_Lesson4\\Controllers\\LttCustomerScaffdingController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt_Lesson4\\Ltt_Lesson4\\Controllers\\LttCustomerScaffdingController.cs",
+              "RelativeToolTip": "Ltt_Lesson4\\Controllers\\LttCustomerScaffdingController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:57:04.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

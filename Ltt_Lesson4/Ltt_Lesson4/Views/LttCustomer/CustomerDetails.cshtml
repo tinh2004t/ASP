@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Thong tin khach hang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thong tin khach hang</h2>
+<p>Ma so: @ViewBag.customer.CustomerId</p>
+<p>
+    Ho va Ten:
+    @ViewBag.customer.FirstName
+    @ViewBag.customer.LastName
+    
+</p>
+<p>
+    Dia chi: @ViewBag.customer.Address
+</p>
+
+<p>
+    Nam Sinh:@ViewBag.customer.YearOfBirth
+</p>
+

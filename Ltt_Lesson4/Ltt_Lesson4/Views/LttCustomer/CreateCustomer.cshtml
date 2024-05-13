@@ -1,0 +1,22 @@
+﻿@model Ltt_Lesson4.Models.LttCustomer
+@{
+    ViewBag.Title = "CreateCustomer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create Customer</h2>
+@using (Html.BeginForm())
+{
+    <div>@Html.LabelFor(model => model.CustomerId)</div>
+    <div>@Html.EditorFor(model => model.CustomerId)</div>
+    <div>@Html.LabelFor(model => model.FirstName)</div>
+    <div>@Html.EditorFor(model => model.FirstName)</div>
+    <div>@Html.LabelFor(model => model.LastName)</div>
+    <div>@Html.EditorFor(model => model.LastName)</div>
+    <div>@Html.LabelFor(model => model.Address)</div>
+    <div>@Html.EditorFor(model => model.Address)</div>
+    <div>@Html.LabelFor(model => model.YearOfBirth)</div>
+    <div>@Html.EditorFor(model => model.YearOfBirth)</div>
+    <div><input type="submit" value="Save" /></div>
+}
+
