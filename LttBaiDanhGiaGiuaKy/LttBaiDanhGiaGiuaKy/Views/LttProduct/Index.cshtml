@@ -1,0 +1,63 @@
+﻿@model IEnumerable<LttBaiDanhGiaGiuaKy.Models.LttProduct>
+
+@{
+    ViewBag.Title = "LttProduct";
+}
+
+<h2>Le Tuan Tinh - Products</h2>
+
+<p>
+    @Html.ActionLink("Create New Products", "LttCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LttId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttIsActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttImage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttQuantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttIsActive)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "LttEdit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "LttDetail", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "LttDelete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

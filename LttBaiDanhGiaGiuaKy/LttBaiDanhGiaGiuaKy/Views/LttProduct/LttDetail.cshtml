@@ -1,0 +1,66 @@
+﻿@model LttBaiDanhGiaGiuaKy.Models.LttProduct
+
+@{
+    ViewBag.Title = "LttDetail";
+}
+
+<h2>Ltt Chi Tiet</h2>
+
+<div>
+    <h4>LttProduct</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LttId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttImage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttImage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttIsActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttIsActive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
