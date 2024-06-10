@@ -1,0 +1,33 @@
+﻿@model IEnumerable<LttLesson8.Models.LttCategory>
+
+@{
+    ViewBag.Title = "LttIndex";
+}
+
+<h2>LttIndex</h2>
+
+<p>
+    @Html.ActionLink("Ltt: Create New", "LttCreate")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LttCategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttCategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.LttCategorId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.LttCategorId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.LttCategorId })
+        </td>
+    </tr>
+}
+
+</table>

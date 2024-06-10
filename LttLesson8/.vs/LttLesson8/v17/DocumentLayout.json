@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\LttLesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10EB131C-B6D3-47C5-9492-9054729D2930}|LttLesson8\\LttLesson8.csproj|d:\\c#-t\\asp\\lttlesson8\\lttlesson8\\controllers\\lttbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EB131C-B6D3-47C5-9492-9054729D2930}|LttLesson8\\LttLesson8.csproj|solutionrelative:lttlesson8\\controllers\\lttbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EB131C-B6D3-47C5-9492-9054729D2930}|LttLesson8\\LttLesson8.csproj|d:\\c#-t\\asp\\lttlesson8\\lttlesson8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10EB131C-B6D3-47C5-9492-9054729D2930}|LttLesson8\\LttLesson8.csproj|solutionrelative:lttlesson8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson8\\LttLesson8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LttLesson8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson8\\LttLesson8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LttLesson8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T03:22:37.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LttBooksController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson8\\LttLesson8\\Controllers\\LttBooksController.cs",
+              "RelativeDocumentMoniker": "LttLesson8\\Controllers\\LttBooksController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson8\\LttLesson8\\Controllers\\LttBooksController.cs",
+              "RelativeToolTip": "LttLesson8\\Controllers\\LttBooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:20:59.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

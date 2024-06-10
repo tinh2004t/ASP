@@ -1,0 +1,63 @@
+﻿@model IEnumerable<LttLesson8.Models.LttBook>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LttTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttPublisher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttPicture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttCategoryId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttYear)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttPublisher)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttPicture)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttCategoryId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.LttBookId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.LttBookId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.LttBookId })
+        </td>
+    </tr>
+}
+
+</table>
