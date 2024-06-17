@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LttK22CNTLesson09DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LttKhoa">
+    <Key>
+      <PropertyRef Name="LttMaKH" />
+    </Key>
+    <Property Name="LttMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="LttTenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttTrangThai" Type="Boolean" />
+    <NavigationProperty Name="LttSinhVien" Relationship="Self.FK_LttSinhVien_LttKhoa1" FromRole="LttKhoa" ToRole="LttSinhVien" />
+  </EntityType>
+  <EntityType Name="LttSinhVien">
+    <Key>
+      <PropertyRef Name="LttMaSV" />
+    </Key>
+    <Property Name="LttMaSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LttHoSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttTenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttNgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="LttPhai" Type="Boolean" />
+    <Property Name="LttPhone" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="LttEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttMaKH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="LttKhoa" Relationship="Self.FK_LttSinhVien_LttKhoa1" FromRole="LttSinhVien" ToRole="LttKhoa" />
+  </EntityType>
+  <Association Name="FK_LttSinhVien_LttKhoa1">
+    <End Role="LttKhoa" Type="Self.LttKhoa" Multiplicity="0..1" />
+    <End Role="LttSinhVien" Type="Self.LttSinhVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LttKhoa">
+        <PropertyRef Name="LttMaKH" />
+      </Principal>
+      <Dependent Role="LttSinhVien">
+        <PropertyRef Name="LttMaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LttK22CNTLesson09DbEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LttKhoa" EntityType="Self.LttKhoa" />
+    <EntitySet Name="LttSinhVien" EntityType="Self.LttSinhVien" />
+    <AssociationSet Name="FK_LttSinhVien_LttKhoa1" Association="Self.FK_LttSinhVien_LttKhoa1">
+      <End Role="LttKhoa" EntitySet="LttKhoa" />
+      <End Role="LttSinhVien" EntitySet="LttSinhVien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<LttLesson09.Models.LttKhoa>
+
+@{
+    ViewBag.Title = "Le Tuan Tinh - Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "LttCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LttTenKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttTrangThai)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttTenKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttTrangThai)
+        </td>
+        <td>
+            @Html.ActionLink("Le Tuan Tinh - Edit", "LttEdit", new { id=item.LttMaKH.Trim() }) |
+            @Html.ActionLink("Le Tuan Tinh - Details", "LttDetails", new { id=item.LttMaKH.Trim() }) |
+            @Html.ActionLink("Le Tuan Tinh - Delete", "LttDelete", new { id=item.LttMaKH.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

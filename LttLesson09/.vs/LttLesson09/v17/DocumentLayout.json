@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\LttLesson09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\lttkhoas\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\lttkhoas\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\lttkhoas\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\lttkhoas\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\lttkhoas\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\lttkhoas\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\lttkhoas\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\lttkhoas\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\lttkhoas\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\lttkhoas\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\controllers\\lttkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\controllers\\lttkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\models\\lttmodel2210900130.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\models\\lttmodel2210900130.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|d:\\c#-t\\asp\\lttlesson09\\lttlesson09\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AE9252-BB25-48E4-A146-C208FFBBA05C}|LttLesson09\\LttLesson09.csproj|solutionrelative:lttlesson09\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LttIndex.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttIndex.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\LttKhoas\\LttIndex.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttIndex.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\LttKhoas\\LttIndex.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:34:28.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LttKhoasController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Controllers\\LttKhoasController.cs",
+              "RelativeDocumentMoniker": "LttLesson09\\Controllers\\LttKhoasController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Controllers\\LttKhoasController.cs",
+              "RelativeToolTip": "LttLesson09\\Controllers\\LttKhoasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:34:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:41:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:44:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LttCreate.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttCreate.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\LttKhoas\\LttCreate.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttCreate.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\LttKhoas\\LttCreate.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:35:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LttDetails.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttDetails.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\LttKhoas\\LttDetails.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttDetails.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\LttKhoas\\LttDetails.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:35:17.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LttEdit.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttEdit.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\LttKhoas\\LttEdit.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttEdit.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\LttKhoas\\LttEdit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:35:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LttLayout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Shared\\_LttLayout.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\Shared\\_LttLayout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\Shared\\_LttLayout.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\Shared\\_LttLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:44:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LttDelete.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttDelete.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\LttKhoas\\LttDelete.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\LttKhoas\\LttDelete.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\LttKhoas\\LttDelete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:35:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LttLesson09\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LttLesson09\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:52:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LttModel2210900130.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Models\\LttModel2210900130.edmx",
+              "RelativeDocumentMoniker": "LttLesson09\\Models\\LttModel2210900130.edmx",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Models\\LttModel2210900130.edmx [Diagram1]",
+              "RelativeToolTip": "LttLesson09\\Models\\LttModel2210900130.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-17T02:33:33.509Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LttLesson09\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\LttLesson09\\LttLesson09\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LttLesson09\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T01:40:22.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
