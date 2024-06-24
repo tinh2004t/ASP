@@ -1,0 +1,45 @@
+﻿@model IEnumerable<OnTap_Ltt_QlSinhVien.Models.KetQua>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "lttCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           @Html.DisplayNameFor(model => model.MaSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonHoc.MaMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diem)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+           @Html.DisplayFor(modelItem => item.MaSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MonHoc.MaMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Diem)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "lttEdit", new { id=item.MaSV.Trim() }) |
+            @Html.ActionLink("Details", "lttDetails", new { id = item.MaSV.Trim() }) |
+            @Html.ActionLink("Delete", "lttDelete", new { id = item.MaSV.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

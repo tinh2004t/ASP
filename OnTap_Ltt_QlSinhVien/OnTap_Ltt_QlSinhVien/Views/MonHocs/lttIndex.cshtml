@@ -1,0 +1,39 @@
+﻿@model IEnumerable<OnTap_Ltt_QlSinhVien.Models.MonHoc>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "lttCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenMH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sotiet)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenMH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sotiet)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "lttEdit", new { id=item.MaMH.Trim() }) |
+            @Html.ActionLink("Details", "lttDetails", new { id=item.MaMH.Trim() }) |
+            @Html.ActionLink("Delete", "lttDelete", new { id=item.MaMH.Trim() })
+        </td>
+    </tr>
+}
+
+</table>
