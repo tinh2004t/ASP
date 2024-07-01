@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LttLesson11DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LttTaiKhoan">
+    <Key>
+      <PropertyRef Name="LttId" />
+    </Key>
+    <Property Name="LttId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LttUserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttFPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttFullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttAge" Type="Int32" />
+    <Property Name="LttEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LttStatus" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="LttLesson11DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LttTaiKhoans" EntityType="Self.LttTaiKhoan" />
+  </EntityContainer>
+</Schema>

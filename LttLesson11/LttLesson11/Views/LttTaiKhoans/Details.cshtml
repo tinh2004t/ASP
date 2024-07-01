@@ -1,0 +1,75 @@
+﻿@model LttLesson11.Models.LttTaiKhoan
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LttLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>LttTaiKhoan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LttUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttFPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttFPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LttId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

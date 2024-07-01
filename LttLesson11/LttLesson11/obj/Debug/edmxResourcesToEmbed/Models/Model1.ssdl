@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LttLesson11DbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LttTaiKhoan">
+    <Key>
+      <PropertyRef Name="LttId" />
+    </Key>
+    <Property Name="LttId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LttUserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LttFPassword" Type="nvarchar" MaxLength="50" />
+    <Property Name="LttFullName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LttAge" Type="int" />
+    <Property Name="LttEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="LttPhone" Type="nvarchar" MaxLength="50" />
+    <Property Name="LttStatus" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="LttLesson11DbModelStoreContainer">
+    <EntitySet Name="LttTaiKhoan" EntityType="Self.LttTaiKhoan" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

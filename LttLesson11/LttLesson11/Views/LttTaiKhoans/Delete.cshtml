@@ -1,0 +1,81 @@
+﻿@model LttLesson11.Models.LttTaiKhoan
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LttLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>LttTaiKhoan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LttUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttFPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttFPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttAge)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LttStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LttStatus)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

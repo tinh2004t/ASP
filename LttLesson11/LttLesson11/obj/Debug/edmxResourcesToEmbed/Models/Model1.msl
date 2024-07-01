@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LttLesson11DbModelStoreContainer" CdmEntityContainer="LttLesson11DbEntities">
+    <EntitySetMapping Name="LttTaiKhoans">
+      <EntityTypeMapping TypeName="LttLesson11DbModel.LttTaiKhoan">
+        <MappingFragment StoreEntitySet="LttTaiKhoan">
+          <ScalarProperty Name="LttId" ColumnName="LttId" />
+          <ScalarProperty Name="LttUserName" ColumnName="LttUserName" />
+          <ScalarProperty Name="LttFPassword" ColumnName="LttFPassword" />
+          <ScalarProperty Name="LttFullName" ColumnName="LttFullName" />
+          <ScalarProperty Name="LttAge" ColumnName="LttAge" />
+          <ScalarProperty Name="LttEmail" ColumnName="LttEmail" />
+          <ScalarProperty Name="LttPhone" ColumnName="LttPhone" />
+          <ScalarProperty Name="LttStatus" ColumnName="LttStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<LttLesson11.Models.LttTaiKhoan>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LttLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LttUserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttFPassword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttFullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttAge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LttStatus)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttUserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttFPassword)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttAge)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LttStatus)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.LttId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.LttId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.LttId })
+        </td>
+    </tr>
+}
+
+</table>

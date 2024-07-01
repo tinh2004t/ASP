@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\ontap_ltt_qlsinhvien\\controllers\\ketquascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|d:\\c#-t\\asp\\ontap_ltt_qlsinhvien\\ontap_ltt_qlsinhvien\\controllers\\ketquascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|solutionrelative:ontap_ltt_qlsinhvien\\controllers\\ketquascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|solutionrelative:ontap_ltt_qlsinhvien\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|d:\\c#-t\\asp\\ontap_ltt_qlsinhvien\\ontap_ltt_qlsinhvien\\views\\ketquas\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\ontap_ltt_qlsinhvien\\views\\ketquas\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66962639-1B1E-4123-AD8E-0CAFF0D7F42B}|OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien.csproj|solutionrelative:ontap_ltt_qlsinhvien\\views\\ketquas\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "OnTap_Ltt_QlSinhVien\\Views\\KetQuas\\lttIndex.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T03:50:44.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T03:50:44.051Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "OnTap_Ltt_QlSinhVien\\Controllers\\SinhViensController.cs",
               "ToolTip": "D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien\\Controllers\\SinhViensController.cs",
               "RelativeToolTip": "OnTap_Ltt_QlSinhVien\\Controllers\\SinhViensController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAawA4AAAA/AAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAD4v0YAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T03:44:59.547Z",
               "EditorCaption": ""
@@ -72,9 +71,9 @@
               "Title": "KetQuasController.cs",
               "DocumentMoniker": "D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs",
               "RelativeDocumentMoniker": "OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs",
-              "ToolTip": "D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs",
-              "RelativeToolTip": "OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAASwEgAAAAMAAAA",
+              "ToolTip": "D:\\C#-T\\ASP\\OnTap_Ltt_QlSinhVien\\OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs*",
+              "RelativeToolTip": "OnTap_Ltt_QlSinhVien\\Controllers\\KetQuasController.cs*",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T03:38:56.446Z",
               "EditorCaption": ""
