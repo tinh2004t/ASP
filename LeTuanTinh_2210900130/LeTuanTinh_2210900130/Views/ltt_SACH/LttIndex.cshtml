@@ -1,0 +1,67 @@
+﻿@model IEnumerable<LeTuanTinh_2210900130.Models.ltt_SACH>
+
+@{
+    ViewBag.Title = "Index";
+    ViewBag.hehe = "|";
+}
+@{ var user = Session["User"] as LeTuanTinh_2210900130.Models.User;}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "LttCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_TenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_SoTrang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_NamXB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_TrangThai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_TAGGIA.ltt_TenTG)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_TenSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_SoTrang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_NamXB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_TrangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_TAGGIA.ltt_TenTG)
+            </td>
+            <td>
+                @{
+                    if (user != null)
+                    {
+                        @Html.ActionLink("Edit", "LttEdit", new { id = item.ltt_MaTG.Trim() })
+                        @ViewBag.hehe
+                        @Html.ActionLink("Details", "LttDetails", new { id = item.ltt_MaTG.Trim() })
+                        @ViewBag.hehe
+                        @Html.ActionLink("Delete", "LttDelete", new { id = item.ltt_MaTG.Trim() })
+                    }
+                }
+            </td>
+        </tr>
+    }
+
+</table>

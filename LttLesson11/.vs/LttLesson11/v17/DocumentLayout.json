@@ -3,55 +3,55 @@
   "WorkspaceRootPath": "D:\\C#-T\\ASP\\LttLesson11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\controllers\\ltttaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\controllers\\ltttaikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\home\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\home\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\home\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\modelviews\\lttloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\modelviews\\lttloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\modelviews\\lttloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\lttlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\lttlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\lttlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\ltttaikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\ltttaikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\ltttaikhoans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|d:\\c#-t\\asp\\lttlesson11\\lttlesson11\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|D:\\C#-T\\ASP\\LttLesson11\\lttlesson11\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F129A0-495A-4C86-A442-23400D450249}|LttLesson11\\LttLesson11.csproj|solutionrelative:lttlesson11\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "LttLesson11\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T09:34:37.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:34:37.174Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:04:45.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:04:45.576Z"
             },
             {
               "$type": "Document",
@@ -100,18 +98,17 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:04:19.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:04:19.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LttTaiKhoansController.cs",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\Controllers\\LttTaiKhoansController.cs",
               "RelativeDocumentMoniker": "LttLesson11\\Controllers\\LttTaiKhoansController.cs",
               "ToolTip": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\Controllers\\LttTaiKhoansController.cs",
               "RelativeToolTip": "LttLesson11\\Controllers\\LttTaiKhoansController.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAuwH8AAAAhAAAA",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAH8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T09:01:43.604Z",
               "EditorCaption": ""
@@ -126,25 +123,24 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\LttLogin.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:22:16.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:22:16.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_LttLayout.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\Views\\Shared\\_LttLayout.cshtml",
               "RelativeDocumentMoniker": "LttLesson11\\Views\\Shared\\_LttLayout.cshtml",
               "ToolTip": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\Views\\Shared\\_LttLayout.cshtml",
               "RelativeToolTip": "LttLesson11\\Views\\Shared\\_LttLayout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T08:56:35.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LttIndex.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\Views\\Home\\LttIndex.cshtml",
               "RelativeDocumentMoniker": "LttLesson11\\Views\\Home\\LttIndex.cshtml",
@@ -152,12 +148,11 @@
               "RelativeToolTip": "LttLesson11\\Views\\Home\\LttIndex.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:08:24.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:08:24.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LttLoginModel.cs",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttLesson11\\LttLesson11\\ModelViews\\LttLoginModel.cs",
               "RelativeDocumentMoniker": "LttLesson11\\ModelViews\\LttLoginModel.cs",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "LttLesson11\\ModelViews\\LttLoginModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T09:13:48.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:13:48.397Z"
             },
             {
               "$type": "Document",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "LttLesson11\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T09:07:09.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:07:09.331Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:31:36.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:31:36.613Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:31:39.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:31:39.432Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "LttLesson11\\Views\\LttTaiKhoans\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:31:43.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:31:43.389Z"
             },
             {
               "$type": "Document",
@@ -230,8 +220,7 @@
               "RelativeToolTip": "LttLesson11\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T09:18:41.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:18:41.059Z"
             }
           ]
         }

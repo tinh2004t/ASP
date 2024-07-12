@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LeTuanTinh_2210900130ModelStoreContainer" CdmEntityContainer="LeTuanTinh_2210900130Entities1">
+    <EntitySetMapping Name="ltt_SACH">
+      <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.ltt_SACH">
+        <MappingFragment StoreEntitySet="ltt_SACH">
+          <ScalarProperty Name="ltt_MaSach" ColumnName="ltt_MaSach" />
+          <ScalarProperty Name="ltt_TenSach" ColumnName="ltt_TenSach" />
+          <ScalarProperty Name="ltt_SoTrang" ColumnName="ltt_SoTrang" />
+          <ScalarProperty Name="ltt_NamXB" ColumnName="ltt_NamXB" />
+          <ScalarProperty Name="ltt_MaTG" ColumnName="ltt_MaTG" />
+          <ScalarProperty Name="ltt_TrangThai" ColumnName="ltt_TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ltt_TAGGIA">
+      <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.ltt_TAGGIA">
+        <MappingFragment StoreEntitySet="ltt_TAGGIA">
+          <ScalarProperty Name="ltt_MaTG" ColumnName="ltt_MaTG" />
+          <ScalarProperty Name="ltt_TenTG" ColumnName="ltt_TenTG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="ltt_Password" ColumnName="ltt_Password" />
+          <ScalarProperty Name="ltt_UserName" ColumnName="ltt_UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,58 @@
+﻿@model LeTuanTinh_2210900130.Models.ltt_SACH
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ltt_SACH</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ltt_TenSach)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ltt_TenSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ltt_SoTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ltt_SoTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ltt_NamXB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ltt_NamXB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ltt_TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ltt_TrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ltt_TAGGIA.ltt_TenTG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ltt_TAGGIA.ltt_TenTG)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "LttEdit", new { id = Model.ltt_MaSach.Trim() }) |
+    @Html.ActionLink("Back to List", "LttIndex")
+</p>

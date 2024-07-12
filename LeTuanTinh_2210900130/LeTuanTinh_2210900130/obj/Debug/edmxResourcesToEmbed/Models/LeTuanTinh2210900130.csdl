@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LeTuanTinh_2210900130Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ltt_SACH">
+    <Key>
+      <PropertyRef Name="ltt_MaSach" />
+    </Key>
+    <Property Name="ltt_MaSach" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ltt_TenSach" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ltt_SoTrang" Type="Int32" />
+    <Property Name="ltt_NamXB" Type="Int32" />
+    <Property Name="ltt_MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="ltt_TrangThai" Type="Boolean" />
+    <NavigationProperty Name="ltt_TAGGIA" Relationship="Self.FK_ltt_SACH_ltt_TAGGIA" FromRole="ltt_SACH" ToRole="ltt_TAGGIA" />
+  </EntityType>
+  <EntityType Name="ltt_TAGGIA">
+    <Key>
+      <PropertyRef Name="ltt_MaTG" />
+    </Key>
+    <Property Name="ltt_MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ltt_TenTG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ltt_SACH" Relationship="Self.FK_ltt_SACH_ltt_TAGGIA" FromRole="ltt_TAGGIA" ToRole="ltt_SACH" />
+  </EntityType>
+  <Association Name="FK_ltt_SACH_ltt_TAGGIA">
+    <End Role="ltt_TAGGIA" Type="Self.ltt_TAGGIA" Multiplicity="0..1" />
+    <End Role="ltt_SACH" Type="Self.ltt_SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ltt_TAGGIA">
+        <PropertyRef Name="ltt_MaTG" />
+      </Principal>
+      <Dependent Role="ltt_SACH">
+        <PropertyRef Name="ltt_MaTG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LeTuanTinh_2210900130Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ltt_SACH" EntityType="Self.ltt_SACH" />
+    <EntitySet Name="ltt_TAGGIA" EntityType="Self.ltt_TAGGIA" />
+    <AssociationSet Name="FK_ltt_SACH_ltt_TAGGIA" Association="Self.FK_ltt_SACH_ltt_TAGGIA">
+      <End Role="ltt_TAGGIA" EntitySet="ltt_TAGGIA" />
+      <End Role="ltt_SACH" EntitySet="ltt_SACH" />
+    </AssociationSet>
+    <EntitySet Name="User" EntityType="LeTuanTinh_2210900130Model.User" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ltt_UserName" />
+    </Key>
+    <Property Name="ltt_UserName" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="ltt_Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

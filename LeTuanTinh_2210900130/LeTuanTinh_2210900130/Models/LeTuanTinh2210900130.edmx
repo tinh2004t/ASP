@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="LeTuanTinh_2210900130Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ltt_SACH">
+          <Key>
+            <PropertyRef Name="ltt_MaSach" />
+          </Key>
+          <Property Name="ltt_MaSach" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="ltt_TenSach" Type="nvarchar" MaxLength="50" />
+          <Property Name="ltt_SoTrang" Type="int" />
+          <Property Name="ltt_NamXB" Type="int" />
+          <Property Name="ltt_MaTG" Type="char" MaxLength="10" />
+          <Property Name="ltt_TrangThai" Type="bit" />
+        </EntityType>
+        <EntityType Name="ltt_TAGGIA">
+          <Key>
+            <PropertyRef Name="ltt_MaTG" />
+          </Key>
+          <Property Name="ltt_MaTG" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="ltt_TenTG" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ltt_UserName" />
+          </Key>
+          <Property Name="ltt_UserName" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="ltt_Password" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <Association Name="FK_ltt_SACH_ltt_TAGGIA">
+          <End Role="ltt_TAGGIA" Type="Self.ltt_TAGGIA" Multiplicity="0..1" />
+          <End Role="ltt_SACH" Type="Self.ltt_SACH" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ltt_TAGGIA">
+              <PropertyRef Name="ltt_MaTG" />
+            </Principal>
+            <Dependent Role="ltt_SACH">
+              <PropertyRef Name="ltt_MaTG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LeTuanTinh_2210900130ModelStoreContainer">
+          <EntitySet Name="ltt_SACH" EntityType="Self.ltt_SACH" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ltt_TAGGIA" EntityType="Self.ltt_TAGGIA" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_ltt_SACH_ltt_TAGGIA" Association="Self.FK_ltt_SACH_ltt_TAGGIA">
+            <End Role="ltt_TAGGIA" EntitySet="ltt_TAGGIA" />
+            <End Role="ltt_SACH" EntitySet="ltt_SACH" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="LeTuanTinh_2210900130Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="ltt_SACH">
+          <Key>
+            <PropertyRef Name="ltt_MaSach" />
+          </Key>
+          <Property Name="ltt_MaSach" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="ltt_TenSach" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ltt_SoTrang" Type="Int32" />
+          <Property Name="ltt_NamXB" Type="Int32" />
+          <Property Name="ltt_MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="ltt_TrangThai" Type="Boolean" />
+          <NavigationProperty Name="ltt_TAGGIA" Relationship="Self.FK_ltt_SACH_ltt_TAGGIA" FromRole="ltt_SACH" ToRole="ltt_TAGGIA" />
+        </EntityType>
+        <EntityType Name="ltt_TAGGIA">
+          <Key>
+            <PropertyRef Name="ltt_MaTG" />
+          </Key>
+          <Property Name="ltt_MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="ltt_TenTG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ltt_SACH" Relationship="Self.FK_ltt_SACH_ltt_TAGGIA" FromRole="ltt_TAGGIA" ToRole="ltt_SACH" />
+        </EntityType>
+        <Association Name="FK_ltt_SACH_ltt_TAGGIA">
+          <End Role="ltt_TAGGIA" Type="Self.ltt_TAGGIA" Multiplicity="0..1" />
+          <End Role="ltt_SACH" Type="Self.ltt_SACH" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ltt_TAGGIA">
+              <PropertyRef Name="ltt_MaTG" />
+            </Principal>
+            <Dependent Role="ltt_SACH">
+              <PropertyRef Name="ltt_MaTG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LeTuanTinh_2210900130Entities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ltt_SACH" EntityType="Self.ltt_SACH" />
+          <EntitySet Name="ltt_TAGGIA" EntityType="Self.ltt_TAGGIA" />
+          <AssociationSet Name="FK_ltt_SACH_ltt_TAGGIA" Association="Self.FK_ltt_SACH_ltt_TAGGIA">
+            <End Role="ltt_TAGGIA" EntitySet="ltt_TAGGIA" />
+            <End Role="ltt_SACH" EntitySet="ltt_SACH" />
+          </AssociationSet>
+          <EntitySet Name="User" EntityType="LeTuanTinh_2210900130Model.User" />
+        </EntityContainer>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ltt_UserName" />
+          </Key>
+          <Property Name="ltt_UserName" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+          <Property Name="ltt_Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="LeTuanTinh_2210900130ModelStoreContainer" CdmEntityContainer="LeTuanTinh_2210900130Entities1">
+          <EntitySetMapping Name="ltt_SACH">
+            <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.ltt_SACH">
+              <MappingFragment StoreEntitySet="ltt_SACH">
+                <ScalarProperty Name="ltt_MaSach" ColumnName="ltt_MaSach" />
+                <ScalarProperty Name="ltt_TenSach" ColumnName="ltt_TenSach" />
+                <ScalarProperty Name="ltt_SoTrang" ColumnName="ltt_SoTrang" />
+                <ScalarProperty Name="ltt_NamXB" ColumnName="ltt_NamXB" />
+                <ScalarProperty Name="ltt_MaTG" ColumnName="ltt_MaTG" />
+                <ScalarProperty Name="ltt_TrangThai" ColumnName="ltt_TrangThai" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ltt_TAGGIA">
+            <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.ltt_TAGGIA">
+              <MappingFragment StoreEntitySet="ltt_TAGGIA">
+                <ScalarProperty Name="ltt_MaTG" ColumnName="ltt_MaTG" />
+                <ScalarProperty Name="ltt_TenTG" ColumnName="ltt_TenTG" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="User">
+            <EntityTypeMapping TypeName="LeTuanTinh_2210900130Model.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="ltt_Password" ColumnName="ltt_Password" />
+                <ScalarProperty Name="ltt_UserName" ColumnName="ltt_UserName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

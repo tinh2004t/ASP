@@ -1,0 +1,42 @@
+﻿@model IEnumerable<LeTuanTinh_2210900130.Models.ltt_TAGGIA>
+
+@{
+    ViewBag.Title = "Index";
+    ViewBag.hehe = "|";
+}
+@{ var user = Session["User"] as LeTuanTinh_2210900130.Models.User;}
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "LttCreate")
+</p>
+<table class="table table-striped to">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ltt_TenTG)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ltt_TenTG)
+            </td>
+            <td>
+                @{
+                    if (user != null)
+                    {
+                        @Html.ActionLink("Edit", "LttEdit", new { id = item.ltt_MaTG.Trim() })
+                        @ViewBag.hehe
+                        @Html.ActionLink("Details", "LttDetails", new { id = item.ltt_MaTG.Trim() })
+                        @ViewBag.hehe
+                        @Html.ActionLink("Delete", "LttDelete", new {id = item.ltt_MaTG.Trim() })
+                    }
+                  }  
+            </td>
+        </tr>
+    }
+
+</table>
