@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="letuantinh_2210900130_de05ModelStoreContainer" CdmEntityContainer="letuantinh_2210900130_de05Entities">
+    <EntitySetMapping Name="lttTask">
+      <EntityTypeMapping TypeName="letuantinh_2210900130_de05Model.lttTask">
+        <MappingFragment StoreEntitySet="lttTask">
+          <ScalarProperty Name="lttTaskId" ColumnName="lttTaskId" />
+          <ScalarProperty Name="lttTaskName" ColumnName="lttTaskName" />
+          <ScalarProperty Name="lttTaskLevel" ColumnName="lttTaskLevel" />
+          <ScalarProperty Name="lttStartDate" ColumnName="lttStartDate" />
+          <ScalarProperty Name="lttTaskStatus" ColumnName="lttTaskStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

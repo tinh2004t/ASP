@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ltt_2210900130_de05.Controllers.lttTask>
+
+@{
+    ViewBag.Title = "LTT - Danh Sach Task";
+}
+
+<h2>LTT - Danh Sach Task</h2>
+
+<p>
+    <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("lttCreate")'">ltt-Create</button>
+</p>
+<table class="table table-bordered my-3">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.lttTaskName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lttTaskLevel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lttStartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lttTaskStatus)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.lttTaskName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lttTaskLevel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lttStartDate)
+        </td>
+        <td>
+            @(item.lttTaskStatus ?? false ? "Show" : "Hide")
+
+        </td>
+        <td>
+            <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("lttEdit", new { id = item.lttTaskId.Trim() })'">ltt-Edit</button>
+            <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("lttDetails", new { id = item.lttTaskId.Trim() })'">ltt-Deltail</button>
+
+            <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("lttDelete", new { id = item.lttTaskId.Trim() })'">ltt-Delete</button>
+
+        </td>
+    </tr>
+}
+
+</table>

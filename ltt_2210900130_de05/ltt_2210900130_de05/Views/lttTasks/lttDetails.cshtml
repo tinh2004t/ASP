@@ -1,0 +1,52 @@
+﻿@model ltt_2210900130_de05.Controllers.lttTask
+
+@{
+    ViewBag.Title = "LTT - Detailt";
+}
+
+<h2>LTT - Detailt</h2>
+
+<div>
+    <h4>lttTask</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.lttTaskName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lttTaskName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lttTaskLevel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lttTaskLevel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lttStartDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lttStartDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lttTaskStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lttTaskStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("lttEdit", new { id = Model.lttTaskId.Trim() })'">Edit</button>
+
+    <a href="@Url.Action("lttIndex")" class="btn btn-secondary">Back to List</a>
+
+</p>

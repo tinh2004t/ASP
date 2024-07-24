@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltttasks\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltttasks\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltttasks\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltttasks\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltttasks\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltttasks\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltttasks\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltttasks\\lttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltttasks\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltttasks\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\shared\\_lttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|d:\\c#-t\\asp\\ltt_2210900130_de05\\ltt_2210900130_de05\\controllers\\ltttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\controllers\\ltttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\controllers\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\controllers\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\ltthome\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\ltthome\\lttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\controllers\\ltthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\controllers\\ltthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9A44F7-8479-47FB-8C12-C597BAFBAFB5}|ltt_2210900130_de05\\ltt_2210900130_de05.csproj|solutionrelative:ltt_2210900130_de05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lttCreate.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttCreate.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttTasks\\lttCreate.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttCreate.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttTasks\\lttCreate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:40:40.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lttDelete.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttDelete.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttTasks\\lttDelete.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttDelete.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttTasks\\lttDelete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:40:35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lttDetails.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttDetails.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttTasks\\lttDetails.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttDetails.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttTasks\\lttDetails.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:40:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lttEdit.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttEdit.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttTasks\\lttEdit.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttEdit.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttTasks\\lttEdit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAnwDYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:40:08.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lttIndex.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttIndex.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttTasks\\lttIndex.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttTasks\\lttIndex.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttTasks\\lttIndex.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:39:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\Model1.edmx",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Controllers\\Model1.edmx",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ltt_2210900130_de05\\Controllers\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-24T01:34:26.464Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lttIndex.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttHome\\lttIndex.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\lttHome\\lttIndex.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\lttHome\\lttIndex.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\lttHome\\lttIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:31:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_lttLayout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\Shared\\_lttLayout.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\Shared\\_lttLayout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\Shared\\_lttLayout.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\Shared\\_lttLayout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:26:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lttTasksController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\lttTasksController.cs",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Controllers\\lttTasksController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\lttTasksController.cs",
+              "RelativeToolTip": "ltt_2210900130_de05\\Controllers\\lttTasksController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAUwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:36:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ltt_2210900130_de05\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:27:52.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lttHomeController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\lttHomeController.cs",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Controllers\\lttHomeController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Controllers\\lttHomeController.cs",
+              "RelativeToolTip": "ltt_2210900130_de05\\Controllers\\lttHomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:27:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ltt_2210900130_de05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\ltt_2210900130_de05\\ltt_2210900130_de05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ltt_2210900130_de05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:24:42.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

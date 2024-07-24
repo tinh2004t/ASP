@@ -1,0 +1,77 @@
+﻿@model ltt_2210900130_de05.Controllers.lttTask
+
+@{
+    ViewBag.Title = "LTT - Create";
+}
+
+<h2>LTT - Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="card">
+        <div class="card-body">
+            <h4>lttTask</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.lttTaskId, htmlAttributes: new { @class = "control-label col-form-label" })
+                <div class="col-form-control">
+                    @Html.EditorFor(model => model.lttTaskId, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.lttTaskId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.lttTaskName, htmlAttributes: new { @class = "control-label col-form-label" })
+                <div class="col-form-control">
+                    @Html.EditorFor(model => model.lttTaskName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.lttTaskName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.lttTaskLevel, htmlAttributes: new { @class = "control-label col-form-label" })
+                <div class="col-form-control">
+                    @Html.EditorFor(model => model.lttTaskLevel, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.lttTaskLevel, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.lttStartDate, htmlAttributes: new { @class = "control-label col-form-label" })
+                <div class="col-form-control">
+                    @Html.EditorFor(model => model.lttStartDate, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.lttStartDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.lttTaskStatus, htmlAttributes: new { @class = "control-label col-form-label" })
+                <div class="col-form-control">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.lttTaskStatus)
+                        @Html.ValidationMessageFor(model => model.lttTaskStatus, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-form-control">
+                    <input type="submit" value="Create" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <a href="@Url.Action("lttIndex")" class="btn btn-secondary">Back to List</a>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
