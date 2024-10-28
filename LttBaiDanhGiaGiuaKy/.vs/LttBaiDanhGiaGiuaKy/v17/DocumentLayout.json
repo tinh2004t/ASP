@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\controllers\\lttproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\controllers\\lttproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\controllers\\lttproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\lttproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\views\\lttproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\models\\lttproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\models\\lttproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\models\\lttproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|d:\\c#-t\\asp\\lttbaidanhgiagiuaky\\lttbaidanhgiagiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\lttbaidanhgiagiuaky\\views\\lttproduct\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{359AD1F2-98C5-45A9-842C-02FD4DFFD051}|LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy.csproj|solutionrelative:lttbaidanhgiagiuaky\\views\\lttproduct\\lttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "LttDetail.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDetail.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDetail.cshtml",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDetail.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T04:07:51.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T04:07:51.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LttDelete.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDelete.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDelete.cshtml",
@@ -67,25 +66,24 @@
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttDelete.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T04:04:09.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T04:04:09.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LttCreate.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttCreate.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttCreate.cshtml",
               "ToolTip": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttCreate.cshtml",
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttCreate.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-03T03:28:50.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LttEdit.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttEdit.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttEdit.cshtml",
@@ -93,21 +91,19 @@
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\LttEdit.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T03:04:44.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T03:04:44.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\Index.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\Index.cshtml",
               "ToolTip": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\Index.cshtml",
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\LttProduct\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAMAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T02:57:52.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T02:57:52.884Z"
             },
             {
               "$type": "Document",
@@ -117,36 +113,34 @@
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Controllers\\LttProductController.cs",
               "ToolTip": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Controllers\\LttProductController.cs",
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Controllers\\LttProductController.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAmwGcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T02:24:58.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LttProduct.cs",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Models\\LttProduct.cs",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Models\\LttProduct.cs",
               "ToolTip": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Models\\LttProduct.cs",
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Models\\LttProduct.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T02:15:08.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T02:15:08.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LttBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\C#-T\\ASP\\LttBaiDanhGiaGiuaKy\\LttBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LttBaiDanhGiaGiuaKy\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T02:14:18.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T02:14:18.336Z"
             }
           ]
         }

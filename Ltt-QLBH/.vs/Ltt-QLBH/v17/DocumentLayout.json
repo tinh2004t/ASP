@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\Ltt-QLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\controllers\\warehousescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\controllers\\warehousescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|d:\\c#-t\\asp\\ltt-qlbh\\ltt-qlbh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C0180-60FB-405F-8E6F-D7E07283BE51}|Ltt-QLBH\\Ltt-QLBH.csproj|solutionrelative:ltt-qlbh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:24:50.944Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:27:44.038Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:57:22.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:56:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\CartItemsController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\CartItemsController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\CartItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:56:13.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:51:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:19:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:59:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:30:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:31:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:53:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:55:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WarehousesController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\WarehousesController.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Controllers\\WarehousesController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Controllers\\WarehousesController.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Controllers\\WarehousesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:55:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:38:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Ltt-QLBH\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:38:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Model1.edmx",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-28T08:05:48.439Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Payment.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Payment.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:56:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Order.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Order.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:55:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\CartItem.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\CartItem.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:55:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Cart.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Cart.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:55:33.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Product.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Product.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:55:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\Warehouse.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\Warehouse.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:52:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Web.config",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Web.config",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Web.config",
+              "RelativeToolTip": "Ltt-QLBH\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T07:51:40.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ltt-QLBH\\Models\\User.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-QLBH\\Ltt-QLBH\\Models\\User.cs",
+              "RelativeToolTip": "Ltt-QLBH\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:52:33.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

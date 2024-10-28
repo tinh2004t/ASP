@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <!-- Thêm CSS tùy chỉnh -->
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+        }
+        /* Định kiểu cho sidebar */
+        .sidebar {
+            width: 250px;
+            background-color: #343a40;
+            color: white;
+            transition: width 0.3s ease;
+            height: 100vh;
+            overflow-y: auto;
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding-top: 60px; /* Tăng khoảng cách để nút không chèn lên đầu */
+        }
+
+            .sidebar.collapsed {
+                width: 0;
+                overflow: hidden;
+            }
+
+            .sidebar a.nav-link {
+                color: white;
+                padding: 10px 15px;
+                display: block;
+            }
+
+                .sidebar a.nav-link:hover {
+                    background-color: #495057;
+                }
+        /* Định kiểu cho nội dung chính */
+        .content {
+            margin-left: 250px;
+            padding: 20px;
+            width: calc(100% - 250px);
+            transition: margin-left 0.3s ease, width 0.3s ease;
+        }
+
+        .sidebar.collapsed + .content {
+            margin-left: 0;
+            width: 100%;
+        }
+        /* Nút toggle */
+        .toggle-btn {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            background-color: #343a40;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1000; /* Đảm bảo nút hiện trên tất cả các thành phần */
+        }
+    </style>
+</head>
+<body>
+    <!-- Nút toggle -->
+    <button class="toggle-btn" onclick="toggleSidebar()">☰ Menu</button>
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar">
+        <ul class="navbar-nav">
+            
+            <li>@Html.ActionLink("Product", "Index", "Products", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Users", "Index", "Users", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Warehouse", "Index", "Warehouses", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Cart", "Index", "Carts", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Orders", "Index", "Orders", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Order Details", "Index", "OrderDetails", new { area = "" }, new { @class = "nav-link" })</li>
+            <li>@Html.ActionLink("Payments", "Index", "Payments", new { area = "" }, new { @class = "nav-link" })</li>
+        </ul>
+    </nav>
+
+    <!-- Nội dung chính -->
+    <div class="container content" id="mainContent">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <!-- JavaScript để điều khiển sidebar -->
+    <script>
+        function toggleSidebar() {
+            var sidebar = document.getElementById("sidebar");
+            var content = document.getElementById("mainContent");
+            sidebar.classList.toggle("collapsed");
+            content.classList.toggle("collapsed");
+        }
+    </script>
+</body>
+</html>

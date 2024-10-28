@@ -1,52 +1,46 @@
 ﻿@model ltt_2210900130_de05.Controllers.lttTask
 
 @{
-    ViewBag.Title = "LTT - Detailt";
+    ViewBag.Title = "LTT - Detail";
 }
 
-<h2>LTT - Detailt</h2>
+<h2>LTT - Detail</h2>
 
-<div>
-    <h4>lttTask</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.lttTaskName)
-        </dt>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.lttTaskName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.lttTaskName)
+            </dd>
 
-        <dd>
-            @Html.DisplayFor(model => model.lttTaskName)
-        </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.lttTaskLevel)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.lttTaskLevel)
+            </dd>
 
-        <dt>
-            @Html.DisplayNameFor(model => model.lttTaskLevel)
-        </dt>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.lttStartDate)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.lttStartDate)
+            </dd>
 
-        <dd>
-            @Html.DisplayFor(model => model.lttTaskLevel)
-        </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.lttTaskStatus)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.lttTaskStatus)
+            </dd>
+        </dl>
 
-        <dt>
-            @Html.DisplayNameFor(model => model.lttStartDate)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.lttStartDate)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.lttTaskStatus)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.lttTaskStatus)
-        </dd>
-
-    </dl>
+        <div class="d-flex justify-content-end">
+            <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("lttEdit", new { id = Model.lttTaskId.Trim() })'">Edit</button>
+            <a href="@Url.Action("lttIndex")" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
 </div>
-<p>
-    <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("lttEdit", new { id = Model.lttTaskId.Trim() })'">Edit</button>
-
-    <a href="@Url.Action("lttIndex")" class="btn btn-secondary">Back to List</a>
-
-</p>
