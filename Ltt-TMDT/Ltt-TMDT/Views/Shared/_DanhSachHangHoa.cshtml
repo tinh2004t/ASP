@@ -1,0 +1,48 @@
+﻿@{
+	Layout = "_LayoutCustomer";
+}
+
+<!-- Header Start -->
+@RenderSection("BreadCum", required: false)
+<!-- Header End -->
+<!-- Products Start -->
+<div class="container-fluid py-5">
+	<div class="container py-5">
+
+		<div class="row justify-content-center">
+			<div class="col-lg-6">
+				<h1 class="section-title position-relative text-center mb-5">Best Prices We Offer For Ice Cream Lovers</h1>
+			</div>
+
+		</div>
+		<!--Search box Start-->
+		<div class="searc-box row justify-content-center m-5">
+			<div class="box">
+				<form name="search" asp-action="Search" asp-controller="HangHoa">
+					<input type="text" class="input" name="query" onmouseout="this.value = ''; this.blur();">
+				</form>
+				<i class="fas fa-search"></i>
+
+			</div>
+
+		</div>
+		<!--Search box End-->
+		<div class="row">
+			<!-- Categories Sidebar Start -->
+			<div class="col-lg-3 col-md-12 mb-4">
+				@await Component.InvokeAsync("MenuLoai")
+			</div>
+			<!-- Categories Sidebar End -->
+			<!-- Products List Start -->
+			<div class="col-lg-9 col-md-12">
+				<div class="row">
+					<!-- Product Item Template -->
+					@RenderBody()
+
+					<!-- Products List End -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Products End -->

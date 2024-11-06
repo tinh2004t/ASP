@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\ASP\\Ltt-TMDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|d:\\c#-t\\asp\\ltt-tmdt\\ltt-tmdt\\areas\\admin\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4F7172B-9535-4C5E-B211-F367F7BB51C1}|Ltt-TMDT\\Ltt-TMDT.csproj|solutionrelative:ltt-tmdt\\areas\\admin\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:36:55.11Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:45:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:45:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:45:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:37:26.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\ASP\\Ltt-TMDT\\Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "Ltt-TMDT\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T16:37:21.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

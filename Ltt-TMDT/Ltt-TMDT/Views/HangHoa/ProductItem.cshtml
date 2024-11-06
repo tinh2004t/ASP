@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Ltt_TMDT.Views.ViewModels.HangHoaVM>
+
+@foreach (var item in Model)
+{
+	<div class="col-lg-4 col-md-6 mb-4 pb-2">
+		<div class="position-absolute top-0 start-0 text-white px-3 py-1 rounded-pill"
+			 style="margin-top: 5px; margin-left: 20px; background-color: #ff80ab; font-weight: bold; transform: rotate(90deg); transform-origin: left;">
+			@item.TenLoai
+		</div>
+		<div class="product-item d-flex flex-column align-items-center text-center bg-light rounded py-5 px-3">
+			<div class="bg-primary mt-n5 py-3" style="width: 80px;">
+				<h4 class="font-weight-bold text-white mb-0">@item.DonGia</h4>
+			</div>
+			<div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
+				<a asp-action="Detail" asp-controller="HangHoa" asp-route-id="@item.MaHh">
+					<img class="rounded-circle w-100 h-100" src="~/Hinh/HangHoa/@item.Hinh" alt="@item.TenHh" style="object-fit: cover;">
+				</a>
+			</div>
+			<a asp-action="Detail" asp-controller="HangHoa" asp-route-id="@item.MaHh">
+
+				<h5 class="font-weight-bold mb-4">@item.TenHh</h5>
+			</a>
+			<a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.MaHh" class="btn btn-sm btn-secondary">Order Now</a>
+		</div>
+	</div>
+}

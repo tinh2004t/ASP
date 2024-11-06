@@ -9,7 +9,7 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-<table class="table">
+<table class="table table-bordered">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.Username)
@@ -65,10 +65,10 @@
             @Html.DisplayFor(modelItem => item.CreatedAt)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.UserID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.UserID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.UserID })
-        </td>
+    <a href="@Url.Action("Edit", "Users", new { id = item.UserID })" class="btn btn-primary">Edit</a>
+    <a href="@Url.Action("Details", "Users", new { id = item.UserID })" class="btn btn-secondary">Details</a>
+    <a href="@Url.Action("Delete", "Users", new { id = item.UserID })" class="btn btn-danger">Delete</a>
+</td>
     </tr>
 }
 

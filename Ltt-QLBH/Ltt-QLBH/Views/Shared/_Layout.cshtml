@@ -25,7 +25,7 @@
             position: fixed;
             top: 0;
             left: 0;
-            padding-top: 60px; /* Tăng khoảng cách để nút không chèn lên đầu */
+            padding-top: 60px;
         }
 
             .sidebar.collapsed {
@@ -42,6 +42,7 @@
                 .sidebar a.nav-link:hover {
                     background-color: #495057;
                 }
+
         /* Định kiểu cho nội dung chính */
         .content {
             margin-left: 250px;
@@ -54,28 +55,30 @@
             margin-left: 0;
             width: 100%;
         }
+
         /* Nút toggle */
         .toggle-btn {
             position: fixed;
             top: 10px;
-            left: 10px;
+            left: 250px; /* Vị trí khi sidebar mở rộng */
             background-color: #343a40;
             color: white;
             border: none;
             padding: 10px;
             cursor: pointer;
-            z-index: 1000; /* Đảm bảo nút hiện trên tất cả các thành phần */
+            z-index: 1000;
+            transition: left 0.3s ease; /* Thêm hiệu ứng mượt */
+        }
+
+        .sidebar.collapsed ~ .toggle-btn {
+            left: 10px; /* Vị trí khi sidebar bị thu gọn */
         }
     </style>
 </head>
 <body>
-    <!-- Nút toggle -->
-    <button class="toggle-btn" onclick="toggleSidebar()">☰ Menu</button>
-
     <!-- Sidebar -->
     <nav class="sidebar" id="sidebar">
         <ul class="navbar-nav">
-            
             <li>@Html.ActionLink("Product", "Index", "Products", new { area = "" }, new { @class = "nav-link" })</li>
             <li>@Html.ActionLink("Users", "Index", "Users", new { area = "" }, new { @class = "nav-link" })</li>
             <li>@Html.ActionLink("Warehouse", "Index", "Warehouses", new { area = "" }, new { @class = "nav-link" })</li>
@@ -85,6 +88,9 @@
             <li>@Html.ActionLink("Payments", "Index", "Payments", new { area = "" }, new { @class = "nav-link" })</li>
         </ul>
     </nav>
+
+    <!-- Nút toggle -->
+    <button class="toggle-btn" onclick="toggleSidebar()">☰</button>
 
     <!-- Nội dung chính -->
     <div class="container content" id="mainContent">
@@ -103,10 +109,9 @@
     <script>
         function toggleSidebar() {
             var sidebar = document.getElementById("sidebar");
-            var content = document.getElementById("mainContent");
             sidebar.classList.toggle("collapsed");
-            content.classList.toggle("collapsed");
         }
     </script>
 </body>
 </html>
+   

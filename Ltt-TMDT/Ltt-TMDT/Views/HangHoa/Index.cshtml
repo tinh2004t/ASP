@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Ltt_TMDT.Views.ViewModels.HangHoaVM>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "_DanhSachHangHoa";
+}
+
+<!-- Header Start -->
+@section BreadCum {
+	<div class="jumbotron jumbotron-fluid page-header" style="margin-bottom: 90px;">
+		<div class="container text-center py-5">
+			<h1 class="text-white display-3 mt-lg-5">Product</h1>
+			<div class="d-inline-flex align-items-center text-white">
+				<p class="m-0"><a class="text-white" asp-controller="Home" asp-action="Index">Home</a></p>
+				<i class="fa fa-circle px-3"></i>
+				<p class="m-0"><a class="text-white" asp-controller="HangHoa" asp-action="Index">Product</a></p>
+			</div>
+		</div>
+	</div>
+}
+<!-- Header End -->
+<!-- Products Start -->
+@await Html.PartialAsync("ProductItem", Model);
+<!-- Products End -->
