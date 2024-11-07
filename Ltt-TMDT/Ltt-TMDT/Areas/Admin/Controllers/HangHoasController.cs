@@ -13,9 +13,6 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
     [Route("Admin/HangHoas")]
     public class HangHoasController : Controller
     {
-
-        
-
         private readonly LttTmdtContext _context;
 
         public HangHoasController(LttTmdtContext context)
@@ -24,6 +21,7 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
         }
         [Route("")]
         [Route("Index")]
+
         // GET: Admin/HangHoas
         public async Task<IActionResult> Index()
         {
@@ -54,12 +52,14 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
 
         // GET: Admin/HangHoas/Create
         [Route("Create")]
+
         public IActionResult Create()
         {
             ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "TenLoai");
             ViewData["MaNcc"] = new SelectList(_context.NhaCungCaps, "MaNcc", "TenCongTy");
             return View();
         }
+        [Route("Create")]
 
         // POST: Admin/HangHoas/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
@@ -74,8 +74,8 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "TenLoai", hangHoa.MaLoai);
-            ViewData["MaNcc"] = new SelectList(_context.NhaCungCaps, "MaNcc", "TenCongTy", hangHoa.MaNcc);
+            ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "MaLoai", hangHoa.MaLoai);
+            ViewData["MaNcc"] = new SelectList(_context.NhaCungCaps, "MaNcc", "MaNcc", hangHoa.MaNcc);
             return View(hangHoa);
         }
 
@@ -102,8 +102,11 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
         // POST: Admin/HangHoas/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Route("Edit")]
         [HttpPost]
         [ValidateAntiForgeryToken]
+        
+
         public async Task<IActionResult> Edit(int id, [Bind("MaHh,TenHh,TenAlias,MaLoai,MoTaDonVi,DonGia,Hinh,NgaySx,GiamGia,SoLanXem,MoTa,MaNcc")] HangHoa hangHoa)
         {
             if (id != hangHoa.MaHh)
@@ -136,7 +139,6 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
             return View(hangHoa);
         }
         [Route("Delete")]
-
         // GET: Admin/HangHoas/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -157,6 +159,7 @@ namespace Ltt_TMDT.Areas.Admin.Controllers
             return View(hangHoa);
         }
 
+        [Route("Delete")]
         // POST: Admin/HangHoas/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ltt-TMDT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a8648409c13f90ce0922e6a9b9927a2aef7305")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d68f6dbd60dd3b061d67b47593d069c7fca83a2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ltt-TMDT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ltt-TMDT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -260,3 +260,10 @@ D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Se
 D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\AutoMapper.dll
 D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.Razor.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\C#-T\ASP\Ltt-TMDT\Ltt-TMDT\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
